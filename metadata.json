@@ -1,0 +1,6 @@
+{
+  "name": "Impulse Calculator",
+  "description": "Minimalist, real-time cost converter that translates prices into hours of work to curb impulse spending.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

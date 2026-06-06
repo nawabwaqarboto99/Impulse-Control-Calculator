@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Danger Ring -->
+    <path
+        android:fillColor="#FFFFA000"
+        android:pathData="M54,16 L94,85 C96,88 94,92 90,92 L18,92 C14,92 12,88 14,85 Z M54,24 L22,86 L86,86 Z"/>
+        
+    <!-- Hourglass Center Symbol inside Triangle -->
+    <path
+        android:fillColor="#FFFF6D00"
+        android:pathData="M44,40 L64,40 L64,44 L57,51 L64,58 L64,62 L44,62 L44,58 L51,51 L44,44 Z M48,44 L54,50 L60,44 Z M60,58 L54,52 L48,58 Z"/>
+        
+    <!-- Centered Warning Accent Dot -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,74 A3,3 0 1,1 53.999,74 Z"/>
+</vector>
